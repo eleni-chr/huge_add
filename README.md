@@ -1,2 +1,2 @@
 # huge_add
-Adds together two positive integers of any length specified as character arrays using decimal notation.
+The function adds together two positive integers of any length specified as character arrays using decimal notation. The output argument is the result and it is a character array. The inputs must contain digits only (no commas, spaces or any other characters). If any of these assumptions are violated by the input, the function returns the number -1. The function also works for numbers that are larger than what can be represented as a number in MATLAB.
